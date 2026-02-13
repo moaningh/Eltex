@@ -1,0 +1,20 @@
+# Executables
+*.out
+*.bin
+
+# Obj files
+*.obj
+*.o
+
+#Libs
+*.a
+
+# Other files
+Task5_2.c
+T1
+T2
+T3
+T4
+T5_2
+T6
+calculator
