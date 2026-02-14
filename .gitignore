@@ -8,6 +8,7 @@
 
 #Libs
 *.a
+*.so
 
 # Other files
 Task5_2.c
