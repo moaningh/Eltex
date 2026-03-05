@@ -12,6 +12,8 @@
 
 # Other files
 Task5_2.c
+test.c
+test
 T1
 T2
 T3
@@ -19,3 +21,6 @@ T4
 T5_2
 T6
 calculator
+T9_1
+output.txt
+file_manager
